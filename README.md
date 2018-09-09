@@ -1,3 +1,3 @@
 # Universidad Politécnica de Guanajuato (Dpto. de Ingeniería Robótica)
 
-## Robotics
+## Kinematics and dynamics of robots (Python library)
