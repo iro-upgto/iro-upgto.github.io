@@ -1,1 +1,3 @@
-# iro-upgto.github.io
+# Universidad Politécnica de Guanajuato (Dpto. de Ingeniería Robótica)
+
+## Robotics
