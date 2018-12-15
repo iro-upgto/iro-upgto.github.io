@@ -19,7 +19,7 @@
 'copy_assets:output\\assets\\js\\bootstrap.min.js', (15360, 503)
 'render_taxonomies:output\\categories\\index.html', (75776, 1818)
 'create_bundles', (17408, 56)
-'sitemap:output\\sitemap.xml', (17920, 1173)
+'sitemap:output\\sitemap.xml', (17920, 1174)
 'copy_assets:output\\assets\\css\\rst_base.css', (19456, 446)
 'copy_assets:output\\assets\\js\\baguetteBox.min.js', (19968, 454)
 'sitemap:output\\sitemapindex.xml', (20480, 256)
