@@ -8,7 +8,13 @@
 .. type: text
 
 
-.. class:: col-md-5 panel panel-default
+.. class:: col-md-4
+
+.. class:: panel-heading 
+
+Tema 000111
+
+.. class:: panel-body
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
