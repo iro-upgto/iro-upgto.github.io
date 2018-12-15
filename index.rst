@@ -7,26 +7,12 @@
 .. description: 
 .. type: text
 
-.. class:: jumbotron col-md-6
 
-.. admonition:: This is a Fake Site
+.. class:: col-md-5 panel panel-default
 
-    It pretends to be about things, but is really just an example.
-
-    .. raw:: html
-
-       <a href="https://getnikola.com/" class="btn btn-primary btn-lg">Click Me!</a>
-
-
-.. class:: col-md-5
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris non nunc turpis.
-Phasellus a ullamcorper leo. Sed fringilla dapibus orci eu ornare. Quisque
-gravida quam a mi dignissim consequat. Morbi sed iaculis mi. Vivamus ultrices
-mattis euismod. Mauris aliquet magna eget mauris volutpat a egestas leo rhoncus.
-In hac habitasse platea dictumst. Ut sed mi arcu. Nullam id massa eu orci
-convallis accumsan. Nunc faucibus sodales justo ac ornare. In eu congue eros.
-Pellentesque iaculis risus urna. Proin est lorem, scelerisque non elementum at,
-semper vel velit. Phasellus consectetur orci vel tortor tempus imperdiet. Class
-aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
-himenaeos.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
