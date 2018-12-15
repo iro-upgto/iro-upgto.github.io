@@ -8,4 +8,4 @@
 .. type: text
 
 .. raw:: html
-	:file: C:\Users\delos\Documents\Blogs\nikola\iro-upgto.github.io\pages\info.html
+	:file: .\pages\info.html
