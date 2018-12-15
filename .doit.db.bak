@@ -58,3 +58,4 @@
 'copy_assets:output\\assets\\js\\html5shiv-printshiv.min.js', (51712, 471)
 'copy_assets:output\\assets\\xml\\rss.xsl', (52224, 435)
 'copy_assets:output\\assets\\js\\gallery.js', (52736, 439)
+'render_taxonomies:output\\blog\\index.html', (53248, 5039)
