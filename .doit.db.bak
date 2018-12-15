@@ -58,7 +58,7 @@
 'copy_assets:output\\assets\\xml\\rss.xsl', (52224, 435)
 'copy_assets:output\\assets\\js\\gallery.js', (52736, 439)
 'render_taxonomies:output\\blog\\index.html', (78336, 5502)
-'render_pages:output\\index.html', (58368, 3173)
+'render_pages:output\\index.html', (58368, 3172)
 'render_sources:output\\index.rst', (61952, 238)
 'copy_assets:output\\assets\\js\\jquery.min.map', (62464, 304)
 'copy_assets:output\\assets\\fonts\\glyphicons-halflings-regular.woff2', (62976, 350)
