@@ -1,0 +1,4 @@
+Sitemap: https://iro-upgto.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: iro-upgto.github.io
