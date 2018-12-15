@@ -8,12 +8,4 @@
 .. type: text
 
 .. raw:: html
-
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title">Panel title</h3>
-  </div>
-  <div class="panel-body">
-    Panel content
-  </div>
-</div>
+	:file: C:\Users\delos\Documents\Blogs\nikola\iro-upgto.github.io\pages\info.html
