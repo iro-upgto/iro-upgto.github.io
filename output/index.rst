@@ -8,7 +8,5 @@
 .. type: text
 
 
-
-
-.. .. raw:: html
-.. 	:file: .\pages\info.html
+.. raw:: html
+	:file: .\pages\info.html
